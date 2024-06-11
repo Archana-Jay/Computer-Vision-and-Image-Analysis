@@ -35,9 +35,3 @@ Code Explanation:
 Contributions:
 
 contributors to the project are Kartikey Bhardwaj, Archana Jayaraman, and Harshavardhan Subramaniyan Madhavan for their valuable contributions to the work.
-
-Comment on the grade:
-
-we grade our project with a score of 90% and above since we exactly reproduced the existing work as expected. we have provided the replication of the research paper, cross-disciplinary analysis with different models, and different approaches to the same dataset.
-
-
